@@ -1,3 +1,3 @@
 # [demo] Flexbox Nav
 
-Create a simple navigation using flexbox container properities of focusing on the main and cross axes. 
+Create simple navigation using flexbox container properties of focusing on the main and cross axes.
